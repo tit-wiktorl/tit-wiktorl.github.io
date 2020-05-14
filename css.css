@@ -49,7 +49,7 @@ body {
 .nav {
     position: -webkit-sticky;
     position: sticky;
-    background: #231F20;
+    background: #000000;
     line-height: 70px;
 }
 
@@ -88,7 +88,7 @@ body {
             }
 
                 .nav a:hover {
-                    background: #414042;
+                    background: #231F20;
                 }
 
 .section {
