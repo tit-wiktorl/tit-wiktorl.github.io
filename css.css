@@ -97,7 +97,7 @@ body {
 }
 
     .section:nth-of-type(even) { /*parzyste*/
-        background: #000000;
+        background: #231F20;
     }
 
     .section *:not(:first-child) {
